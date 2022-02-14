@@ -5,7 +5,7 @@ date:   2022-02-13 20:27:42 -0500
 categories: leetcode codewars projecteuler algorithms 100devs
 ---
 
-Follow me on my journey learning, explaning and implementing algorithms from [Leetcode][leetcode], Codewars[codewars], [Project Euler][euler] and more. 
+Follow me on my journey learning, explaning and implementing algorithms from [Leetcode][leetcode], [Codewars][codewars], [Project Euler][euler] and more. 
 
 
 {% highlight cpp %}
