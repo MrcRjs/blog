@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hola! My name is [Marco][devmarco] and I’m currently a software engineer at Human Care Systems, where I work with NodeJs, Javascript, MongoDB, and Microservices. In my free time, I’m studying React, learning how to design data-intensive apps, as well as coding for microcontrollers. You can also find me working with Resilient Coders alumni, playing Apex legends or reading revolutionary tales. In the past, I worked with an agency, creating projects with REST APIs, Express.js, MongoDB, React-Native, React. I graduated from Benemérita Universidad Autónoma de Puebla (BUAP) as an Information Technology Engineer and worked for my university as a Systems Administrator. My university projects range from C++, Python, PHP, BASH, Java, OpenGL, Docker, and OpenStack. In my last year of college, I was also the local leader for the FreeCodeCamp community, and in partnership with Major League Hacking, we held events for the University’s tech community. Events included classes with Docker and Git 101, and workshops like Python for AI and Web Applications with NodeJs. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+[devmarco]: https://devmarcorojas.com
